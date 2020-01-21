@@ -5,9 +5,9 @@ h4 {
 }
 
 .container {
-  background-color: rgb(195, 131, 52);
+  background-color: rgb(245, 190, 123);
   text-align: center;
-  margin: 0 0 0 0;
+  padding-bottom: 20px;
 }
 
 .burgerImg {
@@ -26,3 +26,7 @@ form {
 /* .mid {
   margin: 0 auto;
 } */
+.burgerText {
+  font-size: 24px;
+  font-weight: 400;
+}
