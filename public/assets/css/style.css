@@ -19,13 +19,9 @@ h4 {
 }
 
 form {
-  /* display: inline-block; */
   text-align: center;
 }
 
-/* .mid {
-  margin: 0 auto;
-} */
 .burgerText {
   font-size: 24px;
   font-weight: 400;
