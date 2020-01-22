@@ -12,7 +12,7 @@ This is a burger application that allows users to create burgers and then "Devou
 Main Page
 <br>
 
-![Image](images/sc1.png)
+![Image](/public/assets/images/sc1.png)
 <br>
 
 # Technologies
